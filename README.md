@@ -5,4 +5,5 @@ Example of data analytic project
 * gather relevent employee data 
 * Optimized Linear to reach the  model. 
 * obtain the result that will clearly show whether or not each of these individual is expected to be absent for morethan 3 hours during a work day 
-  https://github.com/muhammadasifm/Absenteeism_project/blob/main/image/my%20analysis%20on%20tablue.pdf
+ 
+ https://github.com/muhammadasifm/Absenteeism_project
