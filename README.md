@@ -17,3 +17,6 @@ https://github.com/muhammadasifm/TABLEAU-data-vizualisation/upload/main
   * Data related job vs salary analysis over time period
   * salary vs diffrent state
   * meadian paid wage salary vs adjusted paid wage salary
+## 3.Data wrangling
+
+https://github.com/muhammadasifm/data-wrangling-and-mugging
