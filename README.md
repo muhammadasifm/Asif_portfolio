@@ -20,3 +20,23 @@ https://github.com/muhammadasifm/TABLEAU-data-vizualisation/upload/main
 ## 3.Data wrangling
 
 https://github.com/muhammadasifm/data-wrangling-and-mugging
+
+## 4.loan data preprocessing
+* Importing the Data
+* Checking for Incomplete Data
+* Splitting the Dataset
+* Creating Checkpoints
+* Manipulating String Columns
+* Converting to Numbers
+* Manipulating Numeric Columns
+* Currency Change
+* Creating the "Complete" Dataset
+* Sorting the New Dataset
+* Storing the New Dataset
+
+https://github.com/muhammadasifm/Python-numpy-preprocessing/blob/main/A-Loan-Data-preprocessing-NumPy.ipynb
+
+## 5. SQL practice
+https://github.com/muhammadasifm/SQL-practice/blob/main/MySQL_Queries_that_Test_Relationships_Between_Test_Completion_and_Dog_Characteristics.ipynb
+
+https://github.com/muhammadasifm/SQL-practice/blob/main/MySQL_Queries_that_Test_Relationships_Between_Test_Completion_and_Testing_Circumstances.ipynb
